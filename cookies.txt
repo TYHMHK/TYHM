@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.youkeb.com	TRUE	/	FALSE	1999999999	_d_id	b181011d0baf59737b09cb1747debf
-www.youkeb.com	TRUE	/	FALSE	1999999999	SameSite	Lax
-
